@@ -3,9 +3,13 @@ A very good morning to all of you.
 I am tauhid hussain a senior power bi developer at pwc india. I have been with pwc since july 2022.
 I have been part of multiple project where  i have developed more than 16 + power bi reports including peginated report.
 My skillsets are power bi, python, excel, SQL and Azure data factory.
-Recenlty i finished my Independent Assessment project where i was serving as a power bi developer. i used power bi sql to deliver compeling and interactive reporting soutions.
-I also collaborated with the client to understand the business requirement and data needs basedon those i build the reports and demonstrated to the clients for their 
-feedback and after implementing the recommendation for the changes published it to the workspace for distribution and sharin with the end users.
+Recenlty i finished my Independent Assessment project where i was serving as a power bi developer. i used power bi sql to 
+deliver compeling and interactive reporting soutions.
+I also collaborated with the client to understand the business requirement and data needs basedon those i build the reports 
+and demonstrated to the clients for their 
+feedback and after implementing the recommendation for the changes published it to the workspace for distribution and sharin 
+with the end users.
 I also imlemented RLS so that end users have liimited access to data of which they are part of. 
 I have also enhanced & optimized the old report and semantic model for optimal use.
-I look forward to potentiallY bringing my expertise and experience to this team and project ensuring business objective through effective data solutions.
+I look forward to potentiallY bringing my expertise and experience to this team and project ensuring business objective through 
+effective data solutions.
